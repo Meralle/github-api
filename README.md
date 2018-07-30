@@ -1,5 +1,4 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
-
 ![screenshot](./img/countries.png)
 
 Below you will find some information on how to perform common tasks.<br>
