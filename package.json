@@ -1,0 +1,26 @@
+{
+  "name": "react_fetch",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://meralle.github.io/github-api/",
+  "dependencies": {
+    "@material-ui/icons": "^1.1.0",
+    "bootstrap": "^4.1.2",
+    "jquery": "^3.3.1",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "gh-pages": "^1.2.0"
+  }
+}
