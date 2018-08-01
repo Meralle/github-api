@@ -43,3 +43,8 @@
   margin:0 auto;
   height:20rem;
 }
+
+img{
+  max-width:20rem;
+  margin-top:2rem;
+}
